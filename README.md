@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,9 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
