@@ -3,7 +3,7 @@ class Solution {
         int start=0;
         int end=nums.length-1;
         int mid=0;
-        int ans=0;
+        int ans=Integer.MAX_VALUE;
         if(nums[start]<nums[end])
         {
             return nums[start];
@@ -12,18 +12,20 @@ class Solution {
         {
             return nums[0];
         }
-        while(start<end)
+        while(start<=end)
         {
             mid=start+(end-start)/2;
-            if(nums[start]<nums[mid])
+            if(nums[start]<=nums[mid])
             {
-                start=mid;
+                ans=Math.min(ans,nums[start]);
+                start=mid+1;
             }
             else
             {
-                end=mid;
+                ans=Math.min(ans,nums[mid]);
+                end=mid-1;
             }
         }
-        return nums[start+1];
+        return ans;
     }
 }
