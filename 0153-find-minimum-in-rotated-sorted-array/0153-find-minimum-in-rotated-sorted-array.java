@@ -4,14 +4,6 @@ class Solution {
         int end=nums.length-1;
         int mid=0;
         int ans=Integer.MAX_VALUE;
-        if(nums[start]<nums[end])
-        {
-            return nums[start];
-        }
-        if(nums.length==1)
-        {
-            return nums[0];
-        }
         while(start<=end)
         {
             mid=start+(end-start)/2;
