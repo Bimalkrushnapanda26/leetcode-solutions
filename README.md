@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Bimalkrushnapanda26/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
